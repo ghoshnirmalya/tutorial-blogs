@@ -1,0 +1,11 @@
+{
+  "name": "tutorial-blogs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Nirmalya Ghosh <nirmalya.email@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ]
+}

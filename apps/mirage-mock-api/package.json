@@ -1,0 +1,9 @@
+{
+  "name": "mirage-mock-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "miragejs": "^0.1.33"
+  }
+}
